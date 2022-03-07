@@ -11,7 +11,16 @@
  </td>
 </tr>
 <table>
+  
+ ## 🔥 Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmazingDD)](https://git.io/streak-stats)
 
+ ## ☭ Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 	
+![R](https://img.shields.io/badge/R-%23E34F26.svg?style=for-the-badge&logo=R&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!--
 **AmazingDD/AmazingDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
