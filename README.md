@@ -2,7 +2,7 @@
 
 Hi! This is Yu Di from SMU😄
 
-My repositories aim to provide a simple and easily understandable code for those who want to get into Recommender System area and Data Analytics.
+My repositories aim to provide simple and easily understandable codes for those who want to hand on Recommender System area and Data Analytics quikly.
 Hope that some work could be helpful for your own research work and that would be my pleasure!
 
 <table>
