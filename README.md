@@ -1,5 +1,10 @@
 <!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Yu Di -->
 
+Hi! This is Yu Di from SMU😄
+
+My repositories aim to provide a simple and easily understandable code for those who want to get into Recommender System area and Data Analytics.
+Hope that some work could be helpful for your own research work and that would be my pleasure!
+
 <table>
 <tr>
   <td width="50%">
