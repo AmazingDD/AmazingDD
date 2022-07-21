@@ -1,9 +1,9 @@
-<!-- ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Yu Di -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true">
 
-Hi! This is Yu Di from SMU😄
+Hi! This is Yu Di from SMU. My research majors in modeling time series with machine learning, recommendation system and neural language processing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
 
 My repositories aim to provide simple and easily understandable codes for those who want to hand on Recommender System area and Data Analytics quikly.
-Hope that some work could be helpful for your own research work and that would be my pleasure!
+Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an email or PM me via <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">!
 
 <table>
 <tr>
