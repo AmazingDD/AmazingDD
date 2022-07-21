@@ -5,10 +5,11 @@
 Hi! This is Yu Di from SMU. My research majors in modeling time series with machine learning, recommendation system and neural language processing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
 
 My repositories aim to provide simple and easily understandable codes for those who want to hand on Recommender System area and Data Analytics quikly.
-Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an [email](mailto:di.yu.2021@mitb.smu.edu.sg) or PM me via:
+Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an [**email**](mailto:di.yu.2021@mitb.smu.edu.sg) or PM me via:
 
 <a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'><img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> <a alt='WeChat' href='https://github.com/PyPOTS/PyPOTS/blob/7e4c0f3acc047c62e46ef5b48d3e5b1d0f5ed236/docs/figs/Wechat_WDU.jpg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
 
+For more about my self, try to reach my [**CV**](http://amazingdd.github.io/)
 
 ### Languages and Tool
 
@@ -23,9 +24,9 @@ Hope that some work could be helpful for your own research work and that would b
 ![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white)  -->
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amazingDD&theme=vue&hide_border=true)](https://git.io/streak-stats)
+<img align='left' width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" />
+<img align='right' width=50% src="https://github-readme-streak-stats.herokuapp.com?user=amazingDD&theme=vue&hide_border=true" />
 
 
-For more about my self, try to reach my [CV](http://amazingdd.github.io/)
+
