@@ -11,6 +11,7 @@ Hope that some work could be helpful for your own research work and that would b
 
 
  ## ☭ Languages and Tools
+ 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) 	
 ![R](https://img.shields.io/badge/R-%23E34F26.svg?logo=R&logoColor=white&color=00bfff) 
