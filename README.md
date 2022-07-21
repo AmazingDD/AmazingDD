@@ -14,9 +14,12 @@ Hope that some work could be helpful for your own research work and that would b
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact" />
  
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) 	
 ![R](https://img.shields.io/badge/R-%23E34F26.svg?logo=R&logoColor=white&color=00bfff) 
 ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?logo=Tableau&logoColor=white) 
+![html5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![javascriot](https://img.shields.io/badge/javascript-%23F7DF1E?logo=JavaScript&logoColor=white)
+![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white)  -->
 
