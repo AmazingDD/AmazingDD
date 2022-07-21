@@ -1,4 +1,4 @@
-## 🔭 About Me
+### About me
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true">
 
@@ -10,10 +10,8 @@ Hope that some work could be helpful for your own research work and that would b
 <a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'><img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> <a alt='WeChat' href='https://github.com/PyPOTS/PyPOTS/blob/7e4c0f3acc047c62e46ef5b48d3e5b1d0f5ed236/docs/figs/Wechat_WDU.jpg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
 
 
- ## ☭ Languages and Tools
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact" />
- 
+### Languages and Tool
+
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) 
 ![torch](https://img.shields.io/badge/torch-EE4C2C?logo=pytorch&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) 	
@@ -25,3 +23,9 @@ Hope that some work could be helpful for your own research work and that would b
 ![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white)  -->
 
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amazingDD&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
+
+For more about my self, try to reach my [CV](http://amazingdd.github.io/)
