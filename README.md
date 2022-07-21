@@ -15,6 +15,7 @@ Hope that some work could be helpful for your own research work and that would b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact" />
  
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) 
+![torch](https://img.shields.io/badge/torch-EE4C2C?logo=pytorch&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) 	
 ![R](https://img.shields.io/badge/R-%23E34F26.svg?logo=R&logoColor=white&color=00bfff) 
 ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?logo=Tableau&logoColor=white) 
