@@ -9,7 +9,7 @@ Hope that some work could be helpful for your own research work and that would b
 
 <a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'><img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> <a alt='WeChat' href='https://github.com/AmazingDD/AmazingDD/blob/main/WechatIMG93.jpeg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
 
-For more about my self, try to reach my [**CV**](http://amazingdd.github.io/)
+For more about myself, try to reach my [**CV**](http://amazingdd.github.io/)
 
 ### Languages and Tool
 
