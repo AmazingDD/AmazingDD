@@ -2,9 +2,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true">
 
-Hi! This is Yu Di from ZJU. My research majors in modeling time series with machine learning, recommendation system and neural language processing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
+Hi! This is Yu Di from ZJU, currently a PhD candidate. My research majors in modeling time series with edge intelligence, recommendation system, and brain-inspired computing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
 
-My repositories aim to provide simple and easily understandable codes for those who want to hand on Recommender System area and Data Analytics quikly.
+My repositories aim to provide simple and easily understandable codes for those who want to handle on Recommender System area and Data Analytics quickly.
 Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an [**email**](mailto:yudi2023@zju.edu.cn) or PM me via:
 
 <a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'><img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> <a alt='WeChat' href='https://github.com/AmazingDD/AmazingDD/blob/main/WechatIMG93.jpeg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
