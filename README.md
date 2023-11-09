@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true">
 
-Hi! This is Yu Di from ZJU, currently a PhD candidate. My research majors in modeling time series with edge intelligence, recommendation system, and brain-inspired computing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
+Hi! This is Yu Di from ZJU, currently a PhD candidate. My research majors in modeling with edge intelligence, recommendation system, and brain-inspired computing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
 
 My repositories aim to provide simple and easily understandable codes for those who want to handle on Recommender System area and Data Analytics quickly.
 Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an [**email**](mailto:yudi2023@zju.edu.cn) or PM me via:
