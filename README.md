@@ -1,6 +1,6 @@
 ### About me
 
-<img align='right' width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" />
+<!-- <img align='right' width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" /> -->
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true"> -->
 
 Hi! This is Yu Di from ZJU, currently a PhD candidate. My research majors in modeling with edge intelligence, recommendation system, and brain-inspired computing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
