@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20AmazingDD's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43)
+
+
 ### About me
 
 <!-- <img align='right' width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" /> -->
@@ -29,5 +32,5 @@ For more about myself, try to reach my [**CV**](http://amazingdd.github.io/)
 
 <!--  <img align='right' width=50% src="https://github-readme-streak-stats.herokuapp.com?user=amazingDD&theme=vue&hide_border=true" /> -->
 
-
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
 
