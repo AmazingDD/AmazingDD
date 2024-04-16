@@ -10,9 +10,9 @@ Hi, I'm Di Yu! You can also call me Mars!
 I strongly advocate open-source and reproducible research and always devote myself to building my work into valuable real-world applications.
 - My CV is available [here](http://amazingdd.github.io/) if you feel interested in me.
 
-My repositories aim to provide simple and easily understandable codes for those who want to quickly manage the Recommender System area and Data Analytics. 
+My repositories aim to provide simple and easily understandable codes for those who want to manage the Recommender System area and Data Analytics quickly. 
 In addition, some repositories store the codes of my publications and several follow-up studies.
-It would be my great honor if some work could be helpful for your own research work! please feel free to PM me via:
+It would be my great honor if some work could be helpful for your research work! please feel free to PM me via:
 
 <a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'>
 <img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> 
