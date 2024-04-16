@@ -1,22 +1,50 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20AmazingDD's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43)
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20AmazingDD's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43) -->
 
 
-### About me
+# Di Yu
 
-<!-- <img align='right' width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingDD&layout=compact&theme=vue&hide_border=True" /> -->
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=AmazingDD&show_icons=true&theme=vue&hide_border=true"> -->
+Hi, I'm Di Yu! You can also call me Mars!
 
-Hi! This is Yu Di from ZJU, currently a PhD candidate. My research majors in modeling with edge intelligence, recommendation system, and brain-inspired computing. I strongly advocate **open-source and reproducible research** and always devote myself to building my work into valuable real-world applications.
+- PhD candidate in the School of Computer Science and Technology @ [Zhejiang University](https://www.zju.edu.cn/).  
+- Conducting research on **Brain-inspired Computing**, **Edge Intelligence**, and **Recommendation System** @ [CCNT Lab]().  
+I strongly advocate open-source and reproducible research and always devote myself to building my work into valuable real-world applications.
+- My CV is available [here](http://amazingdd.github.io/) if you feel interested in me.
 
-My repositories aim to provide simple and easily understandable codes for those who want to handle on Recommender System area and Data Analytics quickly.
-Hope that some work could be helpful for your own research work and that would be my pleasure! please feel free to drop me an [**email**](mailto:yudi2023@zju.edu.cn) or PM me via:
+My repositories aim to provide simple and easily understandable codes for those who want to quickly manage the Recommender System area and Data Analytics. 
+In addition, some repositories store the codes of my publications and several follow-up studies.
+It would be my great honor if some work could be helpful for your own research work! please feel free to PM me via:
 
-<a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'><img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> <a alt='WeChat' href='https://github.com/AmazingDD/AmazingDD/blob/main/WechatIMG93.jpeg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
+<a alt='LinkedIn' href='https://www.linkedin.com/in/yudimars/'>
+<img align='center' src='https://img.shields.io/badge/LinkedIn-yudimars-blue?style=social&logo=linkedin'></a> 
+<a alt='LinkedIn' href='mailto:yudi2023@zju.edu.cn'>
+<img align='center' src='https://img.shields.io/badge/Email-yudi2023@zju.edu.cn-orange?style=social&logo=gmail'></a> 
+<a alt='WeChat' href='https://github.com/AmazingDD/AmazingDD/blob/main/WechatIMG93.jpeg'><img align='center' src='https://img.shields.io/badge/WeChat-yd1172392977-blue?style=social&logo=wechat'></a>
 
-For more about myself, try to reach my [**CV**](http://amazingdd.github.io/)
+## Areas of Expertise
 
-### Languages and Tool
+- Spiking Neural Network
+- Recommendation System
+- Data Analytics
+- Federated Learning
+- Edge Computing
 
+## Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,git,github,r,mysql"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://clustrmaps.com/site/1bz9s"  title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=hwaNi7bepoJeL9CYnuB3WjMT-liNG4MvcmwecZk3aNA&cl=ffffff" />
+  </a>
+</p>
+
+<!--
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) 
 ![torch](https://img.shields.io/badge/torch-EE4C2C?logo=pytorch&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white) 	
@@ -26,11 +54,10 @@ For more about myself, try to reach my [**CV**](http://amazingdd.github.io/)
 ![html5](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![javascriot](https://img.shields.io/badge/javascript-%23F7DF1E?logo=JavaScript&logoColor=white)
 ![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
-<!-- ![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white)  -->
-
+![Tableau](https://img.shields.io/badge/Tableau-%2311AB00.svg?style=for-the-badge&logo=Tableau&logoColor=white)  -->
 
 
 <!--  <img align='right' width=50% src="https://github-readme-streak-stats.herokuapp.com?user=amazingDD&theme=vue&hide_border=true" /> -->
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=150&section=footer) -->
 
