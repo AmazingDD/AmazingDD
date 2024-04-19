@@ -1,7 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=27&height=200&section=header&text=WELCOME&fontColor=ffffff&fontSize=70&rotate=13&animation=fadeIn&reversal=false&fontAlign=75&fontAlignY=25&desc=%20This%20is%20AmazingDD's%20Github&desczSize=24&FontSize=50&descAlign=81&descAlignY=43) -->
-
+---
 
 # Di Yu
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmazingDD&countColor=%23263759&labelStyle=upper)
 
 Hi, I'm Di Yu! You can also call me Mars!
 
@@ -36,7 +38,17 @@ It would be my great honor if some work could be helpful for your research work!
   </a>
 </p>
 
+## Git Stats
+
+<p align="left">
+  <a href="https://github.com/amazingdd">
+    <img src="https://github-stats-alpha.vercel.app/api?username=amazingdd&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
+</p>
+
 ---
+
+
 
 <!--
 <p align="center">
@@ -46,6 +58,8 @@ It would be my great honor if some work could be helpful for your research work!
 </p> -->
 
 <p><a href="https://clustrmaps.com/site/1bz9t"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6346YBANrsH6PUe3e2kmS4OQ9-0jzrF5q49YNEgigUI&cl=ffffff" /></a></p>
+
+
 
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white) 
