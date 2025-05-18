@@ -3,7 +3,7 @@
 
 # Di Yu
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmazingDD&countColor=%23263759&labelStyle=upper)
+<!--  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmazingDD&countColor=%23263759&labelStyle=upper) -->
 
 Hi, I'm Di Yu! You can also call me Mars!
 
